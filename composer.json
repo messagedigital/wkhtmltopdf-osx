@@ -1,0 +1,19 @@
+{
+    "name": "messagedigital/wkhtmltopdf-osx",
+    "description": "Convert html to pdf using webkit (qtwebkit). Static linked osx binary.",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://code.google.com/p/wkhtmltopdf/",
+    "authors": [
+        {
+            "name": "Laurence Roberts",
+            "email": "laurence@message.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-osx"
+    ],
+    "require": {
+    }
+}
